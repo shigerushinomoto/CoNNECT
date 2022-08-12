@@ -41,7 +41,7 @@ Python program contributed by Daisuke Endo (daisuke.endo96@gmail.com).
 
 Date of the final revision: 2020/05/17
 
-The analysis was directed by Shigeru Shinomoto (shinomoto.shigeru.6e@kyoto-u.ac.jp).
+The analysis was directed by Shigeru Shinomoto (shigerushinomoto@gmail.com).
 
 # Reference
 D. Endo, R. Kobayashi, R. Bartolo, B.B. Averbeck, Y. Sugase-Miyamoto, K. Hayashi, K. Kawano, B.J. Richmond, and S. Shinomoto, CoNNECT: Convolutional Neural Network for Estimating synaptic Connectivity from spike Trains. bioRxiv 2020.05.05.078089
